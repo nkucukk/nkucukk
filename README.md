@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
-nkucukk/nkucukk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+languages ​​that interest me!
+![image](https://github.com/nkucukk/nkucukk/assets/132754595/3f60f88b-1476-4e19-9f0b-a7ebfaae6725)
+
