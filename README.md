@@ -5,6 +5,7 @@
 - 📫 How to reach me ...
 
 languages ​​that interest me!
+Visual Studio CodeHTML5CSS3JavaScriptVueNode.jsSQLMySQLGitGitHubTerminal
 
 
 
