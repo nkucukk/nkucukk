@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nejla Küçük</h1>
-<h3 align="center">A passionate Java Back End Developer from Turkey.</h3>
+<h3 align="center">A passionate Back End Developer from Turkey.</h3>
 
 - 📫 How to reach me **nkucuk097@gmail.com**
 
