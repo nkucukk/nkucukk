@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/nkucukk/nkucukk/blob/main/Githup%20Banner.png" width="100%" title="Intro Card" alt="Intro Card">
+  <img src="https://github.com/nkucukk/nkucukk/blob/main/Banner.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
 - 📫 Connect with me : **nkucuk097@gmail.com**
